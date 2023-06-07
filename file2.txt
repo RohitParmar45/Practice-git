@@ -1,0 +1,3 @@
+this file two
+//staged
+// i am committing it and then checkout
